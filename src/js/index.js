@@ -1,6 +1,6 @@
 window.addEventListener('load', start)
 
-let globalName = ['um', 'dois', 'tres', 'quatro']
+let globalName = []
 let inputName = null
 let isEdit = false
 let currentIndex
